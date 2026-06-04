@@ -1,0 +1,56 @@
+# 멀티모달 AI 기반 개인화 패션 아카이빙 및 검색 시스템
+
+## 목표
+
+개인 옷장 사진을 색상·소재·핏 기준으로 검색할 수 있는 시스템을 만들었다. 새 옷을 사기 전에 비슷한 아이템이 이미 있는지 확인하거나, 특정 조건에 맞는 옷을 빠르게 찾는 용도로 설계했다.
+
+단순 API 호출이 아니라 CLIP 임베딩과 VLM 기반 태깅을 직접 결합해 파이프라인을 설계했고, LLaVA LoRA 파인튜닝까지 시도했다.
+
+## 시스템 구조
+
+### 인덱싱
+
+옷 사진
+→ Rembg (u2net): 배경 제거
+→ LLaVA (LoRA 파인튜닝): category / color / material / detail 태그 생성
+→ CLIP: 이미지 벡터(512d) + 태그 텍스트 벡터(512d) 평균 → 결합 벡터
+→ ChromaDB: 메타데이터(category, color, material)와 함께 저장
+
+### 검색
+
+검색어
+→ LLaVA: 한국어 or 추상적 쿼리를 구체적 패션 키워드로 확장
+→ CLIP: 텍스트 벡터 변환
+→ ChromaDB: 카테고리별 MMR 검색 (다양성 확보)
+→ Gradio: 상의/하의/신발/가방/모자 카테고리별 결과 출력
+
+## 핵심 설계 결정
+
+### Fine-tuning 대신 Retrieval
+
+모델 가중치를 업데이트하는 대신, 사전학습된 CLIP을 그대로 사용해 벡터 검색만 수행했다. 개인 데이터 54장으로는 Fine-tuning이 오히려 성능을 떨어뜨릴 수 있고, Retrieval 방식이 데이터 추가에도 유연하다.
+
+### 이미지 벡터 + 태그 벡터 평균
+
+CLIP은 이미지와 텍스트를 동일한 512차원 공간에 매핑하기 때문에 두 벡터의 평균이 의미있다. 이미지의 시각적 특성과 태그의 의미적 특성을 동시에 반영한 결합 벡터를 만들어 Phase 1(이미지만) 대비 유사도를 0.25에서 0.68로 향상시켰다.
+
+### LLaVA LoRA 파인튜닝
+
+일반 LLaVA가 생성하는 태그의 품질이 낮아(color: unknown, mood: casual 반복) H&M 공개 데이터셋(wbensvage/clothes_desc, 1000장)으로 LoRA 파인튜닝을 진행했다. RTX 4090에서 약 50분 학습 후 color/material 태그 품질이 개선됐다.
+
+### MMR (Maximal Marginal Relevance)
+
+단순 유사도 순위로만 결과를 뽑으면 비슷한 옷들이 반복해서 나온다. MMR을 적용해 유사도가 높으면서도 이미 선택된 결과와 다른 아이템을 우선 뽑아 다양성을 확보했다.
+
+## 시행착오
+
+- **Gemini API 한국 차단** → LLaVA 로컬 모델로 전환
+- **FashionCLIP 교체 시도** → 감성 키워드 검색에서 일반 CLIP보다 성능 낮아 롤백
+- **첫 파인튜닝 실패** → 학습 데이터에 color/mood 정보 없어 오버피팅. 데이터셋 교체 후 재학습
+- **LLaVA 카테고리 오분류** → 매 파인튜닝 후 수동 검수 필요
+
+## 기술 스택
+
+- CLIP (ViT-B/32), LLaVA 1.5 7B, Rembg (u2net)
+- ChromaDB, Gradio, PyTorch, PEFT (LoRA)
+- Python 3.13, Mac M4 (개발), RTX 4090(파인튜닝)
