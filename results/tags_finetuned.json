@@ -1,0 +1,665 @@
+{
+  "top_halfgray.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "short",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "short sleeves"
+    ]
+  },
+  "bottom_gray.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "short",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "short sleeves"
+    ]
+  },
+  "shoes_rainboots.jpg": {
+    "error": "\"top\", \"casual\", \"long sleeves\", \"solid color\", \"crew neckline\", \"long sleeves\", \"top\", \"casual\", \"detailed\"\nAnswr: \"top\", \"casual\", \"long sleeves\", \"solid color\", \"top\", \"casual\", \"detail\""
+  },
+  "top_halfblack.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "short",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline",
+      "short sleeves"
+    ]
+  },
+  "top_check.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "lapel",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "lapel neckline",
+      "lapel sleeves"
+    ]
+  },
+  "bag_black.jpg": {
+    "error": "\"top\", \"casual\", \"long sleeves\", \"cotton\", \"lapel neckline\", \"cotton\", \"casual\", \"daily\"\nAnswre: \"top\", \"casual\", \"long sleeves\", \"cotton\", \"lapel neckline\", \"cotton\", \"casual\", \"daily\""
+  },
+  "bottom_black.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "top_whiteribbon.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "long sleeves"
+    ]
+  },
+  "hat_hoppi.jpg": {
+    "error": "\"top\", \"casual\", \"unknown\", \"unknown\", \"top\", \"cotton\", \"crew neckline\", \"long sleeves\", \"cotton\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\", \"casual\", \"unknown\", \"top\", \"cotton\","
+  },
+  "shoes_adidas.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "crew neckline",
+      "long sleeves"
+    ]
+  },
+  "hat_rainbow.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "top_blackmeshsleeve.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "long sleeves"
+    ]
+  },
+  "top_sleveless.jpg": {
+    "error": "\"top\", \"casual\", \"short sleeves\", \"solid color\", \"crew neckline\", \"short sleeves\", \"cotton material\", \"solid color\", \"crew neckline\", \"short sleeves\", \"cotton material\", \"casual\", \"top\", \"top\", \"top\", \"casual\", \"short sleeves\", \"cotton material\", \"crew neckline\", \"short sleeves\", \"cotton material\", \"casual\", \"top\", \"top\", \"top\", \"casual\", \"short sleeves\", \"cotton material\", \"crew neckline\", \"cotton material\", \"casual\", \"top\", \"top\", \"top\", \"casual\", \"short sleeves\", \"cotton material\", \"crew neckline\", \"cotton material\", \"casual\", \"top\", \"top\", \"top\", \"casual\", \"short sle"
+  },
+  "shoes_crocs.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "hat_red.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "casual",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "hat_salomon.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "regular",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "bottom_whiteskirt.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bottom_boots.jpg": {
+    "error": "\"casual\", \"solid color\", \"long sleeves\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \""
+  },
+  "top_pinkknit.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "top_ribbonsleeve.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "long sleeves"
+    ]
+  },
+  "bag_ribbon.jpg": {
+    "error": "\"category\": \"top\", \"color\": \"unknown\", \"fit\": \"regular\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"lapel neckline\"]\nASSISTant: \"category\": \"top\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"lapel neckline\"]\nASSISTant: \"category\": \"top\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \""
+  },
+  "shoes_black.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "hat_black.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "regular",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "bottom_beige.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEnsure that the clothing item is either a top or a bottom, and that the color is unknown, and the fit is long. The mood of the clothing item is casual, and the occasion is daily. The material is cotton, and the detail is a solid color, and a lapel neckline."
+  },
+  "bottom_blue.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "no distinctive detail"
+    ]
+  },
+  "top_checkshirt.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "casual",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "lapel neckline",
+      "short sleeves"
+    ]
+  },
+  "bottom_frillskir.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "short",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "short sleeves"
+    ]
+  },
+  "shoes_gray.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bottom_graylayered.jpg": {
+    "error": "\"casual\", \"striped\", \"long sleeves\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"cas"
+  },
+  "hat_blue.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "casual",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bottom_shortskirt.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"short\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEANER: \"category\": \"short sleeves\", \"color\": \"unknown\", \"fit\": \"short\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEANER: \"category\": \"short sleeves\", \"color\": \"unknown\", \"fit"
+  },
+  "top_calvin.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "top_white gray.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "short",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "short sleeves"
+    ]
+  },
+  "top_blueshirt.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": [\"solid color\"], \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"crew neckline\"]\nASSISTant: \"category\": \"bottom\", \"color\": \"unknown\", \"fit\": [\"long sleeves\"], \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"crew neckline\"]\nASSISTant: \"category\": \"bottom\", \"color"
+  },
+  "outertop_black.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline",
+      "long sleeves"
+    ]
+  },
+  "shoes_green.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEANER: \"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEANER: \"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"long\", \"m"
+  },
+  "bag_blue.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "top_gray.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "top_halteronepiece.jpg": {
+    "error": "\"top\", \"casual\", \"long sleeves\", \"solid color\", \"lapel neckline\", \"long sleeves\", \"daily wear\", \"casual wear\", \"daily dressing\", \"casual mood\", \"casual clothing\", \"cotton\", \"solid color\", \"lapel neckline\", \"long sleeves\", \"daily wear\", \"casual wear\", \"casual mood\", \"casual clothing\", \"cotton\", \"solid color\", \"lapel neckline\", \"long sleeves\", \"daily wear\", \"casual mood\", \"casual clothing\", \"cotton\", \"solid color\", \"lapel neckline\", \"long sleeves\", \"daily wear\", \"casual mood\", \"casual clothing\", \"cotton\", \"solid color\", \"lapel neckline\", \"long sleeves\", \"d"
+  },
+  "topouter_charcol.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bottom_bluejeans.jpg": {
+    "error": "\"casual\", \"solid color\", \"long sleeves\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \"casual\", \""
+  },
+  "top_whiteshirt.jpg": {
+    "error": "\"top\", \"casual\", \"lapel neckline\", \"cotton\", \"solid color\", \"lapel neckline\", \"long sleeves\"\nAnalyze this clothing item"
+  },
+  "bottom_training.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline",
+      "long sleeves"
+    ]
+  },
+  "bottom_green.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"short\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\", \"long sleeves\"]\nASSISTance: \"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"short\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\", \"long sleeves\"]"
+  },
+  "bag_gray.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "hat_white.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "regular",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "crew neckline"
+    ]
+  },
+  "bottom_graytraining.jpg": {
+    "error": "\"category\": \"bottom\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"lapel neckline\"]\nEnsure that the clothing item is either a top or a bottom, and that the color is unknown, and the fit is long. The mood and occasion tags are also unknown, but the material is cotton, and the detail tags are \"solid color\", \"lapel neckline\", and \"long sleeves\"."
+  },
+  "bag_matinkim.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline",
+      "long sleeves"
+    ]
+  },
+  "bag_bookbag.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bag_green.jpg": {
+    "error": "\"category\": \"top\", \"color\": \"unknown\", \"fit\": [\"casual\"], \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"crew neckline\"]\nEANER: \"category\": \"top\", \"color\": \"unknown\", \"fit\": [\"casual\"], \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"solid color\", \"crew neckline\"]\nEANER: \"category\": \"top\", \"color\": \"unknown\", \"fit\": [\"cas"
+  },
+  "top_adidas.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "long sleeves"
+    ]
+  },
+  "bag_black2.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "bottom_bluejeans2.jpg": {
+    "category": "bottom",
+    "color": "unknown",
+    "fit": "long",
+    "mood": [
+      "casual",
+      "streetwear"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline",
+      "long sleeves"
+    ]
+  },
+  "shoes_brown.jpg": {
+    "category": "top",
+    "color": "unknown",
+    "fit": [
+      "casual"
+    ],
+    "mood": [
+      "casual"
+    ],
+    "occasion": [
+      "daily"
+    ],
+    "material": "cotton",
+    "detail": [
+      "solid color",
+      "lapel neckline"
+    ]
+  },
+  "hat_brown.jpg": {
+    "error": "\"category\": \"top\", \"color\": \"unknown\", \"fit\": \"long\", \"mood\": [\"casual\"], \"occasion\": [\"daily\"], \"material\": \"cotton\", \"detail\": [\"no distinctive detail\"]"
+  }
+}

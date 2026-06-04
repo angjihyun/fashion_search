@@ -1,0 +1,326 @@
+{
+    "top_halfgray.jpg": {
+        "category": "top",
+        "color": "Grey",
+        "material": "cotton",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "bottom_gray.jpg": {
+        "category": "bottom",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "shoes_rainboots.jpg": {
+        "category": "shoes",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "top_halfblack.jpg": {
+        "category": "top",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "top_check.jpg": {
+        "category": "top",
+        "color": "Pink",
+        "material": "unknown",
+        "detail": ["sleeve", "neck", "button"]
+    },
+    "bag_black.jpg": {
+        "category": "bag",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "button", "zip"]
+    },
+    "bottom_black.jpg": {
+        "category": "bottom",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "top_whiteribbon.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "cotton",
+        "detail": ["sleeve", "neck", "hem"]
+    },
+    "hat_hoppi.jpg": {
+        "category": "hat",
+        "color": "Off",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "shoes_adidas.jpg": {
+        "category": "shoes",
+        "color": "White",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "hat_rainbow.jpg": {
+        "category": "hat",
+        "color": "Greenish",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "top_blackmeshsleeve.jpg": {
+        "category": "top",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["sleeve", "neck", "waist"]
+    },
+    "top_sleveless.jpg": {
+        "category": "top",
+        "color": "Off",
+        "material": "cotton",
+        "detail": ["neck", "strap"]
+    },
+    "shoes_crocs.jpg": {
+        "category": "shoes",
+        "color": "Off",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "hat_red.jpg": {
+        "category": "hat",
+        "color": "Red",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "hat_salomon.jpg": {
+        "category": "hat",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "bottom_whiteskirt.jpg": {
+        "category": "bottom",
+        "color": "White",
+        "material": "unknown",
+        "detail": ["sleeve", "neck", "waist"]
+    },
+    "bottom_boots.jpg": {
+        "category": "bottom",
+        "color": "Dark Blue",
+        "material": "denim",
+        "detail": ["waist", "button", "zip"]
+    },
+    "top_pinkknit.jpg": {
+        "category": "top",
+        "color": "Light Pink",
+        "material": "cotton",
+        "detail": ["sleeve", "neck", "hem"]
+    },
+    "top_ribbonsleeve.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "cotton",
+        "detail": ["sleeve", "neck", "button"]
+    },
+    "bag_ribbon.jpg": {
+        "category": "bag",
+        "color": "Light Pink",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "shoes_black.jpg": {
+        "category": "shoes",
+        "color": "Black",
+        "material": "leather",
+        "detail": ["no distinctive detail"]
+    },
+    "hat_black.jpg": {
+        "category": "hat",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "bottom_beige.jpg": {
+        "category": "bottom",
+        "color": "Grey",
+        "material": "cotton",
+        "detail": ["waist", "button", "zip"]
+    },
+    "bottom_blue.jpg": {
+        "category": "bottom",
+        "color": "Dark Blue",
+        "material": "unknown",
+        "detail": ["collar", "waist", "button"]
+    },
+    "top_checkshirt.jpg": {
+        "category": "top",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "bottom_frillskir.jpg": {
+        "category": "bottom",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "shoes_gray.jpg": {
+        "category": "shoes",
+        "color": "Grey",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "bottom_graylayered.jpg": {
+        "category": "bottom",
+        "color": "Grey",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "bottom_shortskirt.jpg": {
+        "category": "bottom",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "top_calvin.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "cotton",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "top_white gray.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "cotton",
+        "detail": ["sleeve", "neck", "hem"]
+    },
+    "top_blueshirt.jpg": {
+        "category": "top",
+        "color": "Dark Blue",
+        "material": "cotton",
+        "detail": ["collar", "button", "pocket"]
+    },
+    "outertop_black.jpg": {
+        "category": "top",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "shoes_green.jpg": {
+        "category": "shoes",
+        "color": "Light Beige",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "bag_blue.jpg": {
+        "category": "bag",
+        "color": "Dark Blue",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "top_gray.jpg": {
+        "category": "top",
+        "color": "Dark Grey",
+        "material": "cotton",
+        "detail": ["sleeve", "neck", "hem"]
+    },
+    "top_halteronepiece.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "unknown",
+        "detail": ["sleeve", "neck", "waist"]
+    },
+    "topouter_charcol.jpg": {
+        "category": "top",
+        "color": "Greenish",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "bottom_bluejeans.jpg": {
+        "category": "bottom",
+        "color": "Dark Blue",
+        "material": "denim",
+        "detail": ["waist", "button", "zip"]
+    },
+    "top_whiteshirt.jpg": {
+        "category": "top",
+        "color": "Off",
+        "material": "unknown",
+        "detail": ["collar", "button", "pocket"]
+    },
+    "bottom_training.jpg": {
+        "category": "bottom",
+        "color": "Dark Blue",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "bottom_green.jpg": {
+        "category": "bottom",
+        "color": "Greenish",
+        "material": "unknown",
+        "detail": ["waist", "button", "zip"]
+    },
+    "bag_gray.jpg": {
+        "category": "bag",
+        "color": "Grey",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "hat_white.jpg": {
+        "category": "hat",
+        "color": "White",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "bottom_graytraining.jpg": {
+        "category": "bottom",
+        "color": "Grey",
+        "material": "cotton",
+        "detail": ["waist", "button", "zip"]
+    },
+    "bag_matinkim.jpg": {
+        "category": "bag",
+        "color": "Light Blue",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "bag_bookbag.jpg": {
+        "category": "bag",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "button", "zip"]
+    },
+    "bag_green.jpg": {
+        "category": "bag",
+        "color": "Greenish",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    },
+    "top_adidas.jpg": {
+        "category": "top",
+        "color": "White",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "hem"]
+    },
+    "bag_black2.jpg": {
+        "category": "bag",
+        "color": "Black",
+        "material": "unknown",
+        "detail": ["collar", "sleeve", "button"]
+    },
+    "bottom_bluejeans2.jpg": {
+        "category": "bottom",
+        "color": "Light Blue",
+        "material": "cotton",
+        "detail": ["waist", "button", "zip"]
+    },
+    "shoes_brown.jpg": {
+        "category": "shoes",
+        "color": "Dark Beige",
+        "material": "leather",
+        "detail": ["no distinctive detail"]
+    },
+    "hat_brown.jpg": {
+        "category": "hat",
+        "color": "Dark Beige",
+        "material": "unknown",
+        "detail": ["no distinctive detail"]
+    }
+}
